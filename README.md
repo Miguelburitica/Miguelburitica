@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Rock_chau
-- 👀 I'm interested in my feelings
-- 🌱 I’m currently learning OOP 
-- 💞️ I’m looking to collaborate on I don't know
+- 👋 Hi, I’m Miguel Buriticá
+- 👀 I'm interested in the technology world
+- 🌱 I’m currently studing a course of FullStackDev
 
 <!---
 Miguelburitica/Miguelburitica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
