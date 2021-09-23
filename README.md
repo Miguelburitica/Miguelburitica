@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Miguel Antonio Buritica Vargas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Miguel Antonio Buritica Vargas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/miguel-antonio-buritica-vargas-74693a219/]
 
 <br />
 
