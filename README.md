@@ -1,6 +1,6 @@
 ### Hi there, I'm Miguel👋
 
-## I'm a Uncle, Developer, and Dreamer!!
+## I'm an Uncle, Developer, and Dreamer!!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with anyone ready to do magic with me
