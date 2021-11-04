@@ -2,10 +2,10 @@
 
 ## I'm an Uncle, Developer, and Dreamer!!
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with anyone ready to do magic with me
+- 🌱 Currently I’m becoming a fullstack developer.
+- 👯 I’m looking to collaborate with anyone ready to do magic with me.
 - 🥅 2021 Goals: learn web development, upgrade my english speaking skills and meet new people.
-- ⚡ Fun fact: I love play football with my friends, watch movies/series and listen music 
+- ⚡ Fun fact: I love play football with my friends, watch movies/series and listen music.
 
 ### Connect with me:
 
