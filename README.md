@@ -1,16 +1,15 @@
 ### Hi there, I'm Miguel👋
 
-## I'm an Uncle, Developer, and Dreamer!!
+## I'm an runner, developer, and fervent learner!!
 
-- 🌱 Currently I’m becoming a fullstack developer.
-- 👯 I’m looking to collaborate with anyone ready to do magic with me.
-- 🥅 2021 Goals: learn web development, upgrade my english speaking skills and meet new people.
-- ⚡ Fun fact: I love play football with my friends, watch movies/series and listen music.
+- 🌱 Currently I’m working as junior developer.
+- 👯 I’m looking to improve my skills and vision every day, never lose the change to get some new trick.
+- 🥅 2023 Goals: master Golang and Typescript, read at least 15 books and run 800Km minimum.
+- ⚡ Fun fact: I'm shy at the beggining of the relations, but in fact I can be pretty funny if the confidence is given. 
 
 ### Connect with me:
 
 [<img align="left" alt="Miguel Antonio Buritica Vargas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Miguelburitica | GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
 
