@@ -3,7 +3,7 @@
 ## I'm an runner, developer, and fervent learner!!
 
 - 🌱 Currently I’m working as junior developer.
-- 👯 I’m looking to improve my skills and vision every day, never lose the change to get some new trick.
+- 👯 I’m looking to improve my skills and vision every day, never lose the chance to get some new trick.
 - 🥅 2023 Goals: master Golang and Typescript, read at least 15 books and run 800Km minimum.
 - ⚡ Fun fact: I'm shy at the beggining of the relations, but in fact I can be pretty funny if the confidence is given. 
 
