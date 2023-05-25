@@ -1,6 +1,6 @@
 ### Hi there, I'm Miguel👋
 
-## I'm an runner, developer, and fervent learner!!
+## I'm a runner, developer, and fervent learner!!
 
 - 🌱 Currently I’m working as junior developer.
 - 👯 I’m looking to improve my skills and vision every day, never lose the chance to get some new trick.
