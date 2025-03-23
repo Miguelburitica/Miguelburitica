@@ -2,7 +2,7 @@
 
 ## Semi-Senior Front-End Developer | Vue.js Specialist | UI/UX Enthusiast
 
-I'm a passionate developer focused on creating exceptional web experiences with scalability and accessibility in mind. With over 3 years of experience, I specialize in building robust front-end solutions using Vue.js and modern web technologies.
+I'm a passionate developer focused on creating exceptional web experiences with scalability and accessibility in mind. With over 3 years of experience, I specialize in building robust front-end solutions using Vue.js and modern web technologies. My background includes experience across various platforms and languages, from mobile development to backend services, bringing a comprehensive understanding to front-end development.
 
 ### 💼 Professional Summary
 
@@ -18,6 +18,7 @@ I'm a passionate developer focused on creating exceptional web experiences with 
 
 **Front-End Development**
 - Vue.js (2.x & 3.x) | Pinia | Vue Router | Nuxt.js
+- Astro (Static Site Generation & Islands Architecture)
 - TypeScript | JavaScript (ES6+)
 - TailwindCSS | SCSS | CSS3
 - HTML5 | Web Components | Responsive Design
@@ -45,6 +46,12 @@ I'm a passionate developer focused on creating exceptional web experiences with 
 - GitHub Actions (CI/CD pipelines)
 - Docker | Git | Advanced Git workflows
 - Automated deployment strategies
+
+**Additional Technology Experience**
+- Flutter (2+ years mobile development)
+- Node.js (API development & server-side applications)
+- Go (Backend services & CLI tools)
+- Cross-platform development
 
 **AI-Enhanced Development**
 - Advanced pair programming with AI assistants
