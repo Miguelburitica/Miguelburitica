@@ -1,26 +1,76 @@
-### Hi there, I'm Miguel👋
+### Hi there, I'm Miguel 👋
 
-## I'm a runner, developer, and fervent learner!!
+## Semi-Senior Front-End Developer | Vue.js Specialist | UI/UX Enthusiast
 
-- 🌱 Currently I’m working as junior developer.
-- 👯 I’m looking to improve my skills and vision every day, never lose the chance to get some new trick.
-- 🥅 2023 Goals: master Golang and Typescript, read at least 15 books and run 800Km minimum.
-- ⚡ Fun fact: I'm shy at the beggining of the relations, but in fact I can be pretty funny if the confidence is given. 
+I'm a passionate developer focused on creating exceptional web experiences with scalability and accessibility in mind. With over 3 years of experience, I specialize in building robust front-end solutions using Vue.js and modern web technologies.
 
-### Connect with me:
+### 💼 Professional Summary
 
-[<img align="left" alt="Miguel Antonio Buritica Vargas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🎯 Semi-Senior Front-End Developer with expertise in Vue.js ecosystem
+- ☁️ Experienced with AWS cloud services for web applications
+- 🎨 Strong focus on UI/UX design principles and implementation
+- ♿ Advocate for web accessibility and inclusive design
+- 🏗️ Specialist in building scalable front-end architectures
+- 🧪 Expert in comprehensive testing strategies (Unit, Integration, E2E)
+- 🚀 Early adopter of AI-enhanced development workflows since 2021
 
-<br />
+### 🛠️ Tech Stack
 
-### Languages and Tools:
+**Front-End Development**
+- Vue.js (2.x & 3.x) | Pinia | Vue Router | Nuxt.js
+- TypeScript | JavaScript (ES6+)
+- TailwindCSS | SCSS | CSS3
+- HTML5 | Web Components | Responsive Design
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+**Bundlers Experience**
+- Vite (Modern dev server & build tool)
+- Rspack (High-performance Rust-based bundler)
+- Webpack (Configuration & optimization expert)
+- Module federation & micro-frontends
+- Advanced code splitting strategies
 
-<br />
-<br />
+**State Management & Data Handling**
+- Pinia (Vue's Official State Management)
+- TanStack Query (Powerful async data management)
+- TanStack Table (Advanced table solutions)
 
-[linkedin]: https://www.linkedin.com/in/miguel-antonio-buritica-vargas-74693a219/
-[javascript]: https://www.javascript.com/
-[node]: https://nodejs.org/
+**Testing Excellence**
+- Unit & Integration: Vitest
+- E2E Testing: Cypress | Playwright
+- Component Testing: Vue Test Utils
+- Test-Driven Development (TDD)
+
+**Cloud & DevOps**
+- AWS Services (S3, CloudFront, Lambda)
+- GitHub Actions (CI/CD pipelines)
+- Docker | Git | Advanced Git workflows
+- Automated deployment strategies
+
+**AI-Enhanced Development**
+- Advanced pair programming with AI assistants
+- AI-driven code analysis and optimization
+- Automated code review and documentation
+- Smart code completion and refactoring
+- Architecture planning and problem solving
+
+**Tools & Practices**
+- Accessibility (WCAG Guidelines)
+- Performance Optimization
+- Component-Driven Development
+- Modern Testing Practices
+
+### 🌟 Key Achievements
+
+- Led front-end architecture decisions for enterprise-level applications
+- Successfully migrated build system from Webpack to Rsbuild, improving developer experience and build times
+- Implemented accessible UI components used across multiple projects
+- Reduced application bundle size by 40% through optimization techniques
+- Established comprehensive testing strategies using Vitest, Cypress, and Playwright
+- Created efficient CI/CD pipelines with GitHub Actions, making deployments more reliable and faster
+- Mentored junior developers in Vue.js best practices and modern front-end development
+- Successfully migrated legacy state management to Pinia improving maintainability
+- Established AI-enhanced development workflows that improved team velocity by 30%
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Buritica-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-antonio-buritica-vargas-74693a219/)
